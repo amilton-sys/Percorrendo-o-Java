@@ -7,7 +7,7 @@ package Pasta1;
  */
 public class Variaveis {
     public static void main(String[] args) {
-        // Abaixo podemos ver uma exemplo de uma variável que separa um espaço na memória um valor do tipo número.
+        // Abaixo podemos ver uma exemplo de uma variável que separa um espaço na memória para conter um valor do tipo número.
         // Dei o nome de numero e vi a necessidade de guardar o valor 50 nela;
         int numero = 50;
     }
