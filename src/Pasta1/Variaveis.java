@@ -1,17 +1,14 @@
 package Pasta1;
 
 /**
- * Variáveis Java
- * Uma variável é um contêiner que contém o valor enquanto o programa Java é executado. Uma variável é atribuída com um tipo de dado.
- * Variável é um nome de local de memória. Existem três tipos de variáveis ​​em Java: local, instância e estática.
- * Existem dois tipos de dados em Java : primitivos e não primitivos.
- * Variável
- * Uma variável é o nome de uma área reservada alocada na memória. Em outras palavras,
- * é um nome do local da memória. É uma combinação de "vary + able", o que significa que seu valor pode ser alterado.
+ * Variáveis Java: <br>
+ * Uma variável é um contâiner/espaço separado em memória que contém um valor que é guardado enquanto o programa Java é executado
+ * e pode ser manipulado ao decorrer da execução do programa.
  */
 public class Variaveis {
     public static void main(String[] args) {
-        int dados = 50; // Isto é uma variável, aqui os dados são variáveis
+        // Abaixo podemos ver uma exemplo de uma variável que separa um espaço na memória um valor do tipo número.
+        // Dei o nome de numero e vi a necessidade de guardar o valor 50 nela;
+        int numero = 50;
     }
 }
-
